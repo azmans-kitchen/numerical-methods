@@ -1,14 +1,14 @@
 # numerical-methods
 This repository contains some scripts I used to teach numerical methods, mainly:
 
-->solving linear systems,
+-solving linear systems,
 
-->performing interpolations
+-performing interpolations
 
-->solving system of differential equations, initial value problems
+-solving system of differential equations, initial value problems
 
-->solving point kinetics
+-solving point kinetics
 
-->solving boundary value problems
+-solving boundary value problems
 
-->solving partial differential equations
+-solving partial differential equations
